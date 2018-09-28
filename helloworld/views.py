@@ -6,4 +6,4 @@ from django.contrib.auth.models import User
 
 
 def index(request):
-	return HttpResponse('helloworld')
+	return HttpResponse('guestbookver1.html')
