@@ -17,4 +17,4 @@
     
     **Homework:**
     
-    link: https://weifuhelllo.herokuapp.com/
+    link: https://weifu.herokuapp.com/
